@@ -13,7 +13,7 @@ Installation
 Run the following composer require command:
 
 ``` bash
-$ php composer.phar require liip/theme-bundle:dev-master
+$ php composer.phar require deyde/dataqbundle:dev-master
 
 ```
 

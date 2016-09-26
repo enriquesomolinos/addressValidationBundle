@@ -1,0 +1,4 @@
+services:
+    deyde_address_validation_service:
+        class:  Deyde\DataQBundle\Services\DeydeValidationService
+        arguments: [@service_container,@logger]

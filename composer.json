@@ -1,0 +1,13 @@
+{
+	"autoload" : {
+		"psr-0" : {
+			"Deyde\\DataQBundle\\" : "src"
+		}
+	},
+	"name" : "Deyde/DataQBundle",
+	"description" : "Deyde DataQBundle. Use de Address validation service",
+	"type" : "symfony-bundle",
+	"require" : {
+		"php" : ">=5.4"
+	}
+}
